@@ -19,6 +19,7 @@
 		FD0455AB2B0F8531000C2B23 /* ConditionVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0455AA2B0F8531000C2B23 /* ConditionVIew.swift */; };
 		FD0455AD2B0F8672000C2B23 /* LoopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0455AC2B0F8672000C2B23 /* LoopView.swift */; };
 		FD0455AF2B0F8727000C2B23 /* FunctionVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0455AE2B0F8727000C2B23 /* FunctionVIew.swift */; };
+		FD0455B12B0F8C40000C2B23 /* StructView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0455B02B0F8C40000C2B23 /* StructView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		FD0455AA2B0F8531000C2B23 /* ConditionVIew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionVIew.swift; sourceTree = "<group>"; };
 		FD0455AC2B0F8672000C2B23 /* LoopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoopView.swift; sourceTree = "<group>"; };
 		FD0455AE2B0F8727000C2B23 /* FunctionVIew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunctionVIew.swift; sourceTree = "<group>"; };
+		FD0455B02B0F8C40000C2B23 /* StructView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 				FD0455AA2B0F8531000C2B23 /* ConditionVIew.swift */,
 				FD0455AC2B0F8672000C2B23 /* LoopView.swift */,
 				FD0455AE2B0F8727000C2B23 /* FunctionVIew.swift */,
+				FD0455B02B0F8C40000C2B23 /* StructView.swift */,
 			);
 			path = part1;
 			sourceTree = "<group>";
@@ -275,6 +278,7 @@
 				FD0455A72B0F7C13000C2B23 /* VariableView.swift in Sources */,
 				FD0455AB2B0F8531000C2B23 /* ConditionVIew.swift in Sources */,
 				FD04557F2B0F7AB6000C2B23 /* ContentView.swift in Sources */,
+				FD0455B12B0F8C40000C2B23 /* StructView.swift in Sources */,
 				FD0455A92B0F7EF6000C2B23 /* CollectionView.swift in Sources */,
 				FD0455AD2B0F8672000C2B23 /* LoopView.swift in Sources */,
 				FD0455AF2B0F8727000C2B23 /* FunctionVIew.swift in Sources */,
