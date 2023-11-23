@@ -14,6 +14,7 @@
 		FD04558E2B0F7AB7000C2B23 /* part1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD04558D2B0F7AB7000C2B23 /* part1Tests.swift */; };
 		FD0455982B0F7AB7000C2B23 /* part1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0455972B0F7AB7000C2B23 /* part1UITests.swift */; };
 		FD04559A2B0F7AB7000C2B23 /* part1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0455992B0F7AB7000C2B23 /* part1UITestsLaunchTests.swift */; };
+		FD0455A72B0F7C13000C2B23 /* VariableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0455A62B0F7C13000C2B23 /* VariableView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		FD0455932B0F7AB7000C2B23 /* part1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = part1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD0455972B0F7AB7000C2B23 /* part1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = part1UITests.swift; sourceTree = "<group>"; };
 		FD0455992B0F7AB7000C2B23 /* part1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = part1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		FD0455A62B0F7C13000C2B23 /* VariableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VariableView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				FD04557E2B0F7AB6000C2B23 /* ContentView.swift */,
 				FD0455802B0F7AB7000C2B23 /* Assets.xcassets */,
 				FD0455822B0F7AB7000C2B23 /* Preview Content */,
+				FD0455A62B0F7C13000C2B23 /* VariableView.swift */,
 			);
 			path = part1;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD0455A72B0F7C13000C2B23 /* VariableView.swift in Sources */,
 				FD04557F2B0F7AB6000C2B23 /* ContentView.swift in Sources */,
 				FD04557D2B0F7AB6000C2B23 /* part1App.swift in Sources */,
 			);
