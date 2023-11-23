@@ -17,6 +17,7 @@
 		FD0455A72B0F7C13000C2B23 /* VariableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0455A62B0F7C13000C2B23 /* VariableView.swift */; };
 		FD0455A92B0F7EF6000C2B23 /* CollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0455A82B0F7EF6000C2B23 /* CollectionView.swift */; };
 		FD0455AB2B0F8531000C2B23 /* ConditionVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0455AA2B0F8531000C2B23 /* ConditionVIew.swift */; };
+		FD0455AD2B0F8672000C2B23 /* LoopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0455AC2B0F8672000C2B23 /* LoopView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		FD0455A62B0F7C13000C2B23 /* VariableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VariableView.swift; sourceTree = "<group>"; };
 		FD0455A82B0F7EF6000C2B23 /* CollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionView.swift; sourceTree = "<group>"; };
 		FD0455AA2B0F8531000C2B23 /* ConditionVIew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionVIew.swift; sourceTree = "<group>"; };
+		FD0455AC2B0F8672000C2B23 /* LoopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoopView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				FD0455A62B0F7C13000C2B23 /* VariableView.swift */,
 				FD0455A82B0F7EF6000C2B23 /* CollectionView.swift */,
 				FD0455AA2B0F8531000C2B23 /* ConditionVIew.swift */,
+				FD0455AC2B0F8672000C2B23 /* LoopView.swift */,
 			);
 			path = part1;
 			sourceTree = "<group>";
@@ -270,6 +273,7 @@
 				FD0455AB2B0F8531000C2B23 /* ConditionVIew.swift in Sources */,
 				FD04557F2B0F7AB6000C2B23 /* ContentView.swift in Sources */,
 				FD0455A92B0F7EF6000C2B23 /* CollectionView.swift in Sources */,
+				FD0455AD2B0F8672000C2B23 /* LoopView.swift in Sources */,
 				FD04557D2B0F7AB6000C2B23 /* part1App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
