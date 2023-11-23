@@ -16,6 +16,7 @@
 		FD04559A2B0F7AB7000C2B23 /* part1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0455992B0F7AB7000C2B23 /* part1UITestsLaunchTests.swift */; };
 		FD0455A72B0F7C13000C2B23 /* VariableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0455A62B0F7C13000C2B23 /* VariableView.swift */; };
 		FD0455A92B0F7EF6000C2B23 /* CollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0455A82B0F7EF6000C2B23 /* CollectionView.swift */; };
+		FD0455AB2B0F8531000C2B23 /* ConditionVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0455AA2B0F8531000C2B23 /* ConditionVIew.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		FD0455992B0F7AB7000C2B23 /* part1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = part1UITestsLaunchTests.swift; sourceTree = "<group>"; };
 		FD0455A62B0F7C13000C2B23 /* VariableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VariableView.swift; sourceTree = "<group>"; };
 		FD0455A82B0F7EF6000C2B23 /* CollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionView.swift; sourceTree = "<group>"; };
+		FD0455AA2B0F8531000C2B23 /* ConditionVIew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionVIew.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				FD0455822B0F7AB7000C2B23 /* Preview Content */,
 				FD0455A62B0F7C13000C2B23 /* VariableView.swift */,
 				FD0455A82B0F7EF6000C2B23 /* CollectionView.swift */,
+				FD0455AA2B0F8531000C2B23 /* ConditionVIew.swift */,
 			);
 			path = part1;
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FD0455A72B0F7C13000C2B23 /* VariableView.swift in Sources */,
+				FD0455AB2B0F8531000C2B23 /* ConditionVIew.swift in Sources */,
 				FD04557F2B0F7AB6000C2B23 /* ContentView.swift in Sources */,
 				FD0455A92B0F7EF6000C2B23 /* CollectionView.swift in Sources */,
 				FD04557D2B0F7AB6000C2B23 /* part1App.swift in Sources */,
