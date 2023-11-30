@@ -26,6 +26,7 @@
 		FD0455B92B18C6D0000C2B23 /* OptionalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0455B82B18C6D0000C2B23 /* OptionalView.swift */; };
 		FD0455BF2B18D2DB000C2B23 /* ExceptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0455BE2B18D2DB000C2B23 /* ExceptionView.swift */; };
 		FD0455C12B18D60A000C2B23 /* Protocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0455C02B18D60A000C2B23 /* Protocol.swift */; };
+		FD0455C32B18DB59000C2B23 /* Generic.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0455C22B18DB59000C2B23 /* Generic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,6 +69,7 @@
 		FD0455B82B18C6D0000C2B23 /* OptionalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptionalView.swift; sourceTree = "<group>"; };
 		FD0455BE2B18D2DB000C2B23 /* ExceptionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExceptionView.swift; sourceTree = "<group>"; };
 		FD0455C02B18D60A000C2B23 /* Protocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protocol.swift; sourceTree = "<group>"; };
+		FD0455C22B18DB59000C2B23 /* Generic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Generic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,6 +136,7 @@
 				FD0455B82B18C6D0000C2B23 /* OptionalView.swift */,
 				FD0455BE2B18D2DB000C2B23 /* ExceptionView.swift */,
 				FD0455C02B18D60A000C2B23 /* Protocol.swift */,
+				FD0455C22B18DB59000C2B23 /* Generic.swift */,
 			);
 			path = part1;
 			sourceTree = "<group>";
@@ -298,6 +301,7 @@
 				FD0455B32B0F8F26000C2B23 /* ClassView.swift in Sources */,
 				FD0455C12B18D60A000C2B23 /* Protocol.swift in Sources */,
 				FD0455B52B18BF76000C2B23 /* EnumView.swift in Sources */,
+				FD0455C32B18DB59000C2B23 /* Generic.swift in Sources */,
 				FD0455BF2B18D2DB000C2B23 /* ExceptionView.swift in Sources */,
 				FD04557F2B0F7AB6000C2B23 /* ContentView.swift in Sources */,
 				FD0455B12B0F8C40000C2B23 /* StructView.swift in Sources */,
