@@ -22,6 +22,7 @@
 		FD0455B12B0F8C40000C2B23 /* StructView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0455B02B0F8C40000C2B23 /* StructView.swift */; };
 		FD0455B32B0F8F26000C2B23 /* ClassView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0455B22B0F8F25000C2B23 /* ClassView.swift */; };
 		FD0455B52B18BF76000C2B23 /* EnumView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0455B42B18BF75000C2B23 /* EnumView.swift */; };
+		FD0455B72B18C322000C2B23 /* SwitchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD0455B62B18C322000C2B23 /* SwitchView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 		FD0455B02B0F8C40000C2B23 /* StructView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructView.swift; sourceTree = "<group>"; };
 		FD0455B22B0F8F25000C2B23 /* ClassView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassView.swift; sourceTree = "<group>"; };
 		FD0455B42B18BF75000C2B23 /* EnumView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnumView.swift; sourceTree = "<group>"; };
+		FD0455B62B18C322000C2B23 /* SwitchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +124,7 @@
 				FD0455B02B0F8C40000C2B23 /* StructView.swift */,
 				FD0455B22B0F8F25000C2B23 /* ClassView.swift */,
 				FD0455B42B18BF75000C2B23 /* EnumView.swift */,
+				FD0455B62B18C322000C2B23 /* SwitchView.swift */,
 			);
 			path = part1;
 			sourceTree = "<group>";
@@ -288,6 +291,7 @@
 				FD04557F2B0F7AB6000C2B23 /* ContentView.swift in Sources */,
 				FD0455B12B0F8C40000C2B23 /* StructView.swift in Sources */,
 				FD0455A92B0F7EF6000C2B23 /* CollectionView.swift in Sources */,
+				FD0455B72B18C322000C2B23 /* SwitchView.swift in Sources */,
 				FD0455AD2B0F8672000C2B23 /* LoopView.swift in Sources */,
 				FD0455AF2B0F8727000C2B23 /* FunctionVIew.swift in Sources */,
 				FD04557D2B0F7AB6000C2B23 /* part1App.swift in Sources */,
