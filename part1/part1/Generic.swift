@@ -10,6 +10,7 @@ import SwiftUI
 struct Generic: View {
     @State var inputValue = ""
     @State var stack = Stack<Int>()
+    
     var body: some View {
         VStack {
             TextField("input", text: $inputValue)
@@ -19,6 +20,8 @@ struct Generic: View {
             } label: {
                 Text("PUSH")
             }
+            
+
             
             Button {
                 stack.show()
